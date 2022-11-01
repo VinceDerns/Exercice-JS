@@ -25,7 +25,6 @@ const users = [
 // Les utilisateurs majeurs sont:
 // Juan
 // Vince
-// Truc
-// Machin
+
 
 
