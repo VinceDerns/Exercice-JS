@@ -168,3 +168,6 @@ const users2023 = [
 usersMajor(users2023)
 
 // exo terminé, on pousse sur github
+// git add .
+// git commit -m "exo terminé"
+// git push
