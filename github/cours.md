@@ -28,3 +28,7 @@
 
     - On peut vérifier si on a bien fait le travail en tapant: git status
     
+Désormais a chaque fois qu'on voudra effectuer une sauvegarde de notre travail, on fera:
+- git add .  (on ajoute les fichiers à notre prochain commit)
+- git commit -m "mon commentaire" (on sauvegarde en local nos modifications)
+- git push (on pousse le travail en ligne donc sur github)
